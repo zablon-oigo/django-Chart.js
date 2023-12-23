@@ -3,3 +3,28 @@ Chart.js is an open-source JavaScript library for data visualization. It support
 
 # ScreenShot
 ![Screenshot 2023-12-22 at 16-46-19 Statistics Chart](https://github.com/zablon-oigo/django-Chart.js/assets/143833326/b74fd07b-ab7d-458e-b913-178d97825b6d)
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:zablon-oigo/django-Chart.js.git
+```
+
+Go to the project directory
+
+```bash
+  cd django-Chart.js
+```
+
+Install dependencies
+
+```bash
+  pip install
+```
+
+Start the server
+
+```bash
+  py manage.py runserver
+```
